@@ -1,5 +1,9 @@
 # RGBColorGame
-This time with confetti!
+This time with ***confetti!***
 
-RBG Color Game: My fork of Colt Steele's RGB Color Game (Udemy web dev course). 
-Confetti code forked from https://codepen.io/linrock/pen/Amdhr
+My fork of Colt Steele's RGB Color Game (Udemy web dev course).
+
+
+Confetti forked from https://codepen.io/linrock/pen/Amdhr.
+
+Play [here](https://connectextend.github.io/RGBColorGame/).
