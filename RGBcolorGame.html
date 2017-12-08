@@ -1,0 +1,37 @@
+ <!DOCTYPE html>
+<html>
+<canvas id="world" style="position:absolute; z-index:9999;"></canvas>
+<head>
+    <title>RGB Color Game</title>
+    <link href="RGBcolorGame.css" rel="stylesheet" type="text/css">
+    <link href="Confetti.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>The Great
+	<br>
+	<span id="colorDisplay">RGB</span>
+	<br>
+	Color Game</h1>
+
+<div id="stripe">
+	<button id="reset">New Colors</button>
+	<span id="message"></span>
+	<button class="mode">Easy</button>
+	<button class="mode selected">Hard</button>
+</div>
+
+<div id="container" style="position: relative;">
+	<div class="square"></div>
+	<div class="square"></div>
+	<div class="square"></div>
+	<div class="square"></div>
+	<div class="square"></div>
+	<div class="square"></div>
+</div>
+
+    <script src="RGBcolorGame.js" type="text/javascript"></script>
+    <script src="Confetti.js" type="text/javascript"></script>
+</body>
+
+</html>
